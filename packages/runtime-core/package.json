@@ -33,6 +33,6 @@
   "homepage": "https://github.com/vuejs/core/tree/main/packages/runtime-core#readme",
   "dependencies": {
     "@vue/shared": "3.3.0-alpha.9",
-    "@vue/reactivity": "3.3.0-alpha.9"
+    "@vue/reactivity": "3.3.1"
   }
 }
